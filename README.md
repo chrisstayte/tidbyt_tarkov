@@ -1,2 +1,2 @@
-# tydbyt_tarkov
-tydbyt escape from tarok time
+# tidbyt_tarkov
+tidbyt escape from tarok time
